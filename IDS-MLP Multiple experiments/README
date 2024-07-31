@@ -1,0 +1,6 @@
+This directory contains multiple experiments of IDS-MLP in order to Demonstrate Consistency in Results.
+Analyzing the variability of the results can help demonstrate the robustness and reliability.
+
+20 Experiments total
+
+Different metrics were used and I calculated the Average and Standard Deviation of them.
