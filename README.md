@@ -1,8 +1,6 @@
-# FL_IDS-GAN
-Trying to study IDS-GAN in FL context
+# IDS-GAN_DataAugmentation
 
-My master dissertation on NIDS based on GAN in Federated Learning context.
-Update: Experimentation on Data Augmentation using Vanilla GAN on CIC-IDS-2017 for IDS-MLP & IDS-RFC and evaluation...maybe...FL theoric analysis only on thesis...
+My master dissertation: Experimentation on Data Augmentation using Vanilla GAN on improved CIC-IDS-2017 for IDS-MLP & IDS-RFC and evaluation of performances.
 
 
 1. Preprocessing file on CIC-IDS-2017 (improved): https://intrusion-detection.distrinet-research.be/CNS2022/CICIDS2017.html
